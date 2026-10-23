@@ -4,3 +4,9 @@ __pycache__/
 *.db
 report.md
 findings.csv
+*.db
+report.md
+findings.csv
+.pytest_cache/
+__pycache__/
+.DS_Store
