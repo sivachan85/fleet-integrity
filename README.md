@@ -1,5 +1,7 @@
 # Fleet Integrity Checker
 
+![tests](https://github.com/sivachan85/fleet-integrity/actions/workflows/tests.yml/badge.svg)
+
 Automated data integrity checks and rebalancing suggestions for a vehicle rental fleet.
 
 ## Why I built it
